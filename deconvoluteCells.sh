@@ -1,7 +1,7 @@
 #!/bin/bash
 ### BEGINNING OF GENOTYPE DECONVOLUTION SCRIPT ###
-# AUTHOR: Eddie Cano-Gamez (ecg@sanger.ac.uk)
-# Modified by Marta Perez Alcantara (ma23@sanger.ac.uk) to follow her directory structure
+# AUTHOR: Eddie Cano-Gamez (ecg@sanger.ac.uk, https://github.com/eddiecg)
+# Modified by Marta Perez Alcantara (ma23@sanger.ac.uk) to follow her directory structure and change cellSNP to cellSNP-lite
 # Defining messages
 printHelpMessage() {
 	echo ""
