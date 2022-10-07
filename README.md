@@ -17,6 +17,7 @@ Once you have performed these steps, you can run the data analysis scripts:
 - **1.3.QC.R** to do the quality control and processing of the cellranger data to Seurat object, with filtering, normalization, clustering, etc.
 - **2.Markers and DEA.R** contains the analysis of microlglial and perivascular macrophage markers and differential expression analysis between the different media samples. The perivascular macrophage markers were selected after following the pipeline described in the separate "select_perivascular_markers" folder.
 - **3.SingleR_labelTransfer.R** describes the process of transfering labels from two different datasets onto our data.
+- **4.compare_external_datasets.R** describes how to do the PCA with external data (links to these datasets are available within the script).
 
 There is also a separate folder for the **data analysis of qPCR results** ("for_qPCR), with the input data "Micro001_All_Markers.csv" and the script **Differentiation_1_qPCR_Linear_Regression_Analysis.R** to run the analysis.
 
