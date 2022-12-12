@@ -1,6 +1,6 @@
 # Washer_et_al_microglia_media
 
-This is the code for the paper "Single-cell transcriptomics defines an improved, validated monoculture protocol for differentiation of human iPSCs to microglia". https://www.biorxiv.org/content/10.1101/2022.08.02.502447v1
+This is the code for the paper "Single-cell transcriptomics defines an improved, validated monoculture protocol for differentiation of human iPSCs to microglia". https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9663826/
 
 The pipeline for the **initial processing of the data** (CRAMs are stored on ENA ERP140337) is described in the **Snakefile**, which has the following steps:
 
